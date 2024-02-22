@@ -1,0 +1,14 @@
+{
+  "name": "Website Builder",
+  "short_name": "Website Builder",
+  "icons": [],
+  "start_url": "https://pardnchiu.github.io/website-builder/",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FFFEFC;",
+  "theme_color": "#FFFEFC;",
+  "description": "JOBALL",
+  "dir": "ltr",
+  "lang": "zh-Hant-TW"
+}
