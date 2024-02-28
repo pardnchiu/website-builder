@@ -7,38 +7,54 @@
 <html lang="zh-Hans-TW">
 
 	<head>
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="default">
 		<!--  -->
-		<title>Website Builder｜Created by Pardn Chiu</title>
-		<meta name="description" content="">
-		<meta name="theme-color" content="#FFFEFC">
+        <meta name="robots" content="index follow">
+        <meta name="googlebot" content="index follow">
 		<!--  -->
-		<meta property="og:title" content="Website Builder｜Created by Pardn Chiu">
-		<meta property="og:description" content="">
+        <title>Website Builder｜Created by Pardn Chiu</title>
+        <meta name="title" content="Website Builder｜Created by Pardn Chiu">
+        <meta property="og:title" content="Website Builder｜Created by Pardn Chiu">
+        <meta property="twitter:title" content="Website Builder｜Created by Pardn Chiu">
+		<!--  -->
+        <meta name="description" content="">
+        <meta property="og:description" content="">
+        <meta property="twitter:description" content="">
+		<!--  -->
 		<meta property="og:image" content="https://pardnchiu.github.io/website-builder/image/cover.png">
-		<meta property="og:url" content="">
-		<meta property="og:type" content="website">
-		<!--  -->
-		<meta property="twitter:title" content="Website Builder｜Created by Pardn Chiu">
-		<meta property="twitter:description" content="">
 		<meta property="twitter:image" content="https://pardnchiu.github.io/website-builder/image/cover.png">
-		<meta property="twitter:url" content="">
-		<meta property="twitter:site" content="">
-		<meta property="twitter:card" content="">
 		<!--  -->
-		<meta name="mobile-web-app-capable" content="no">
-		<meta name="apple-mobile-web-app-capable" content="no">
-		<meta name="apple-mobile-web-app-status-bar-style" content="default">
-		<meta name="viewport" content="width=device-width, viewport-fit=cover, user-scalable=no, initial-scale=1.0">
-		<meta name="theme-color" content="#000">
+        <link rel="apple-touch-icon" href="">
+        <link rel="apple-touch-icon-precomposed" href="">
+        <link rel="icon" type="image/x-icon" href="">
 		<!--  -->
-		<link rel="apple-touch-icon" href="">
-		<link rel="apple-touch-icon-precomposed" href="">
-		<link rel="icon" href="" type="image/x-icon">
+        <meta name="theme-color" content="#FFFEFC">
 		<!--  -->
-		<meta name="google-site-verification" content="YQQ2f6AchR8dcb55Az2BYd_mw4TrP0J1RApD-v2v65Y" />
+        <meta property="og:site_name" content="pardnchiu.github.io">
 		<!--  -->
+        <meta property="og:type" content="website">
+		<!--  -->
+        <meta property="author" content="Pardn Chiu 邱敬幃">
+        <link rel="author" href="https://pardnchiu.github.io/website-builder/">
+        <!--  -->
+        <meta property="og:url" content="https://pardnchiu.github.io/website-builder/">
+        <meta property="twitter:url" content="https://pardnchiu.github.io/website-builder/">
+        <!--  -->
+        <link rel="canonical" href="https://pardnchiu.github.io/website-builder/">
+        <link rel="alternate" href="https://pardnchiu.github.io/website-builder/">
+        <meta rel="alternate" content="https://pardnchiu.github.io/website-builder/">
+        <!--  -->
+        <link rel="home" href="https://pardnchiu.github.io/">
+        <!--  -->
+        <meta rel="copyright" content="© 2024 帕登數位科技有限公司 Pardn ltd">
+        <!--  -->
+        <link rel="manifest" href="/manifest.json">
+        <!--  -->
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link
@@ -47,7 +63,7 @@
 		<!--  -->
 		<link rel="stylesheet" href="./css/index.css">
 		<!--  -->
-		<script src="https://pardnchiu.github.io/PDExtension-js/v3/PDExtension.min.js" copyright="Pardn Ltd"></script>
+		<script src="./js/v3/PDExtension.min.js" copyright="Pardn Ltd"></script>
 		<script type="module" src="./js/builder-test.min.js" defer></script>
 		<!--  -->
 		<style>
@@ -58,7 +74,40 @@
 		</style>
 	</head>
 
-	<body class="builder">
+	<body id="website-builder" class="builder">
+        <nav>
+            <section>
+                <section>
+                    <strong class="logo">
+                        <span>Website</span>
+                        Builder (尚未完成)
+                    </strong>
+                </section>
+                <section class="center">
+                    <span class="svg bl" src="./image/svg/left-tab.svg" @click="bodyLeftSwitch"></span>
+                    <span class="svg br" src="./image/svg/right-tab.svg" @click="bodyRightSwitch"></span>
+                    <div></div>
+                    <i class="fa-solid fa-mobile-screen-button" type="mobile" @click="modeMobile"></i>
+                    <i class="fa-solid fa-tablet-screen-button" type="tablet" @click="modeTablet"></i>
+                    <i class="fa-solid fa-desktop" type="desktop" @click="modeDesktop"></i>
+                    <i class="fa-solid fa-code" type="code"></i>
+                </section>
+                <section class="right">
+                    <section>
+                        <button class="clr">
+                            <i class="fa-solid fa-download"></i>
+                            下載
+                        </button>
+                    </section>
+                </section>
+            </section>
+        </nav>
+        <section class="builder-body">
+
+        </section>
+        <div class="mask">
+            <p>尚未適配解析度1024以下的畫面</p>
+        </div>
 	</body>
 
 </html>
