@@ -27,6 +27,7 @@
 | ![002](./image/preview/template/full/002.jpg) | 
 | ![003](./image/preview/template/full/003.jpg) |
 | ![003](./image/preview/template/full/004.jpg) | 
+| ![003](./image/preview/template/full/005.jpg) | 
 
 ## Contributor
 
