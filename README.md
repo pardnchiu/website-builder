@@ -12,7 +12,7 @@
 - Easy to edit content text and css style.
     ![](./image/md/1.jpg)
     ![](./image/md/2.jpg)
-- Over 30 pre-made examples (4 / 32)
+- Over 30 pre-made examples (5 / 32)
 
 ## Develop
 - Built using HTML, CSS / Sass and JavaScript.
