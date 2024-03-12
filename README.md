@@ -1,5 +1,10 @@
 # Website Builder (In Progress)
+
 *Currently only compatible with displays of 1024 and above*
+
+<a href="https://hits.sh/github.com/website-builder/">
+    <img alt="Hits" src="https://hits.sh/github.com/website-builder.svg"/>
+</a>
 
 ## Features
 - Various pre-made modules are available for use.
