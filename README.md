@@ -1,27 +1,37 @@
-# Website Builder (未完成)
-*當前僅適配1024以上的顯示*
+# Website Builder (In Progress)
+*Currently only compatible with displays of 1024 and above*
 
-## Over 30 Examples (4 / 32)
+## Features
+- Various pre-made modules are available for use.
+    ![](./image/md/0.jpg)
+- Easy to edit content text and css style.
+    ![](./image/md/1.jpg)
+    ![](./image/md/2.jpg)
+- Over 30 pre-made examples (4 / 32)
 
-| ![001](./image/001.jpg) | ![002](./image/002.jpg) | 
-| - | - | 
-| ![003](./image/003.jpg)  | ![003](./image/004.jpg) | 
+### Develop
+- Built using HTML, CSS / Sass and JavaScript.
+- Rendered using [PDExtension-js](https://github.com/pardnchiu/PDExtension-js).
+- Use [Font Awesome 6](https://fontawesome.com/v6/search) icons and [Freepik](https://www.freepik.com/) images.
+- Preview available [Here](https://pardnchiu.github.io/website-builder).
 
-## 功能特點
+#### Examples
 
-- 使用Html、Css / Sass和JavaScript編寫。
-- 使用[Font Awesome 6](https://fontawesome.com/v6/search)圖標。
-- 可以在[此處](https://pardnchiu.github.io/website-builder/)進行預覽。
-- 可以在[GitHub](https://github.com/pardnchiu/website-builder)上找到源碼。
+| ![001](./image/preview/template/full/001.jpg) |
+| - |
+| ![002](./image/preview/template/full/002.jpg) | 
+| ![003](./image/preview/template/full/003.jpg) |
+| ![003](./image/preview/template/full/004.jpg) | 
 
-## 作者和貢獻者
+## Contributor
 
-- [Pardn Ltd 帕登國際有限公司](https://linkedin.com/company/pardnltd)
 - [Pardn Chiu 邱敬幃](https://linkedin.com/in/pardnchiu)
 
-## 授權
+## License
 
-本源碼項目使用GPL-3.0 license授權。
+This source code project is licensed under the GPL-3.0 license.
 
-版權所有 (c) 2023 [Pardn Ltd 帕登國際有限公司](https://www.linkedin.com/company/pardnltd)
+***
+
+©️ 2024 [Pardn Chiu 邱敬幃](https://linkedin.com/in/pardnchiu)
 
