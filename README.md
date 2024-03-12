@@ -9,13 +9,13 @@
     ![](./image/md/2.jpg)
 - Over 30 pre-made examples (4 / 32)
 
-### Develop
+## Develop
 - Built using HTML, CSS / Sass and JavaScript.
 - Rendered using [PDExtension-js](https://github.com/pardnchiu/PDExtension-js).
 - Use [Font Awesome 6](https://fontawesome.com/v6/search) icons and [Freepik](https://www.freepik.com/) images.
 - Preview available [Here](https://pardnchiu.github.io/website-builder).
 
-#### Examples
+## Examples
 
 | ![001](./image/preview/template/full/001.jpg) |
 | - |
