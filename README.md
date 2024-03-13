@@ -12,7 +12,7 @@
 - Easy to edit content text and css style.
     ![](./image/md/1.jpg)
     ![](./image/md/2.jpg)
-- Over 30 pre-made examples (6 / 32)
+- Over 30 pre-made examples (7 / 32)
     ![](./image/md/3.jpg)
 
 ## Develop
@@ -23,8 +23,9 @@
 
 ## Examples
 
-| ![](./image/preview/template/full/006.jpg) | 
+| ![](./image/preview/template/full/007.jpg) | 
 | - |
+| ![](./image/preview/template/full/006.jpg) | 
 | ![](./image/preview/template/full/005.jpg) | 
 | ![](./image/preview/template/full/004.jpg) | 
 | ![](./image/preview/template/full/003.jpg) |
