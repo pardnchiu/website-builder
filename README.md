@@ -1,34 +1,15 @@
 # Website Builder (In Progress)
 
-<a href="https://hits.sh/github.com/website-builder/">
-    <img alt="Hits" src="https://hits.sh/github.com/website-builder.svg"/>
-</a>
+[![Hits](https://hits.sh/github.com/website-builder.svg)](https://hits.sh/github.com/website-builder/)
 
 ## Features
 - Various pre-made modules are available for use.
-    ![](./image/md/0.jpg)
 - Easy to edit content text and css style.
-    ![](./image/md/1.jpg)
-    ![](./image/md/2.jpg)
-- Over 30 pre-made examples (7 / 32)
-    ![](./image/md/3.jpg)
-
-## Develop
+- Over 30 pre-made examples (8 / 32)
 - Built using HTML, CSS / Sass and JavaScript.
 - Rendered using [PDExtension-js](https://github.com/pardnchiu/PDExtension-js).
 - Use [Font Awesome 6](https://fontawesome.com/v6/search) icons and [Freepik](https://www.freepik.com/) images.
 - Preview available [Here](https://pardnchiu.github.io/website-builder).
-
-## Examples
-
-| ![](./image/preview/template/full/007.jpg) | 
-| - |
-| ![](./image/preview/template/full/006.jpg) | 
-| ![](./image/preview/template/full/005.jpg) | 
-| ![](./image/preview/template/full/004.jpg) | 
-| ![](./image/preview/template/full/003.jpg) |
-| ![](./image/preview/template/full/002.jpg) | 
-| ![](./image/preview/template/full/001.jpg) |
 
 ## Contributor
 
@@ -37,6 +18,18 @@
 ## License
 
 This source code project is licensed under the GPL-3.0 license.
+
+## Examples
+
+| ![](./image/preview/template/full/008.jpg) | 
+| - |
+| ![](./image/preview/template/full/007.jpg) | 
+| ![](./image/preview/template/full/006.jpg) | 
+| ![](./image/preview/template/full/005.jpg) | 
+| ![](./image/preview/template/full/004.jpg) | 
+| ![](./image/preview/template/full/003.jpg) |
+| ![](./image/preview/template/full/002.jpg) | 
+| ![](./image/preview/template/full/001.jpg) |
 
 ***
 
