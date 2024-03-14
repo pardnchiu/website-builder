@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.sh/github.com/website-builder.svg)](https://hits.sh/github.com/website-builder/)
 
+![](./image/preview.jpg)
+
 ## Features
 - Various pre-made modules are available for use.
 - Easy to edit content text and css style.
