@@ -13,7 +13,17 @@
 
 ## Contributor
 
-- [Pardn Chiu 邱敬幃](https://linkedin.com/in/pardnchiu)
+<a href="https://pardn.io">
+<img src=https://pardn.io/image/head-s.jpg align=left width=100 height=100>
+</a>
+
+### 邱敬幃 Pardn Chiu
+
+<a href="mailto:mail@pardn.ltd">
+  <img src="https://pardn.io/image/mail.svg">
+</a>&nbsp<a href="https://linkedin.com/in/pardnchiu">
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
 
 ## License
 
