@@ -1,0 +1,25 @@
+# 忽略所有.DS_Store
+.DS_Store
+# 忽略所有.default.html
+*.default.html
+# 忽略所有.scss
+*.scss
+# 忽略所有.js 僅保留.min.js
+*.js
+!*.min.js
+# 忽略.ts
+**/typescript/*.ts
+# 忽略 vscode 工作台
+*.code-workspace
+# 忽略 Folder Icon
+Icon?
+# 忽略sh
+reset.sh
+# 忽略 npm 套件
+**/node_modules/*
+package-lock.json
+package.json
+terser.cache.json
+terser.config.json
+
+**/js/*.md
